@@ -14,6 +14,8 @@
 //This property has been created by Leela Prasad.
 @property unsigned short int age;
 
+@property NSMutableArray *arry;
+
 
 @end
 
